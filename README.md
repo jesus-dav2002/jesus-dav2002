@@ -15,4 +15,4 @@ soy un estudiante de platzi el cual le gustaria aportar y compartir proyectos co
 ##### - [platzi](https://platzi.com/@heidan/)
 ##### - [twitter](https://twitter.com/J_Davidx)
 
-de momento soy principiante y prefiero proyectos más simples pero si puedo aportar algo util a tu proyecto lo hare
+de momento soy principiante y prefiero proyectos más simples. Pero si creo que es posible colaborar, lo haré
